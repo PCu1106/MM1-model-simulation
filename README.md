@@ -25,3 +25,4 @@ Purple part is 95% confident interval
 We can see...
 1. Confident interval decrease when simulation turns increase
 2. When λ> 1/ave_service_time, the average_waiting_time start to increase
+   (Because 1/λ= average_arrive_time)
